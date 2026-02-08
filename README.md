@@ -2,7 +2,8 @@
 
 # Mandark
 
-Mandark is a **Codex-driven research operator** designed to run inside VS Code.  
+Mandark is a **Codex-driven research operator** designed to run inside VS Code.
+
 It replicates the core behavior of the Dexter repo—agent loop, tool calls, scratchpad logging, and replayability—while remaining **API-key free**, **deterministic**, and **audit-friendly**.
 
 Think of Mandark as a retro-styled rival brain: precise, obsessive, and built for repeatable research.
