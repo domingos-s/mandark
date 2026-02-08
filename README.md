@@ -22,12 +22,10 @@ Think of Mandark as a retro-styled rival brain: precise, obsessive, and built fo
   Mandark relies only on public, credible data sources and Codex’s built-in LLM capability.
 
 - **Verbatim input capture**  
-  The user’s question is written **verbatim, byte-for-byte** as the first content in the session file.  
-  Whitespace, punctuation, and newlines are preserved exactly.
+  The user’s question is written **verbatim, byte-for-byte** as the first content in the session file. Whitespace, punctuation, and newlines are preserved exactly.
 
 - **Tool summaries only**  
-  No hidden reasoning is shown.  
-  Full trace lives in the scratchpad JSONL.
+  No hidden reasoning is shown. Full trace lives in the scratchpad JSONL.
 
 ---
 
